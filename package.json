@@ -1,0 +1,19 @@
+{
+  "name": "webm",
+  "version": "1.0.0",
+  "description": "WebM EBML encoder",
+  "main": "webm.js",
+  "scripts": {
+    "test": "standard ./lib/**/*.js"
+  },
+  "keywords": [
+    "WebM",
+    "EBML",
+    "encode"
+  ],
+  "author": "William Kapke",
+  "license": "MIT",
+  "dependencies": {
+    "buffers": "^0.1.1"
+  }
+}
